@@ -30,5 +30,8 @@
   -->
   <cores adminPath="/admin/cores" defaultCoreName="ezp-default">
     <core name="ezp-default" instanceDir="ezp-default" />
+    <core name="cze-CZ" instanceDir="cze-CZ" />
+    <core name="eng-GB" instanceDir="eng-GB" />
+    <core name="ger-DE" instanceDir="ger-DE" />
   </cores>
 </solr>
